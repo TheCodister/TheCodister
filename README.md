@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecodister" alt="thecodister" /></a> </p>
 
-- 🔭 I’m currently working on [Badminton ecommerce website](https://github.com/TheCodister/badminton-econ-app)
+- 🔭 I’m currently working on [Badminton Ecommerce Website](https://github.com/TheCodister/badminton-econ-app), [Movie Review App](https://github.com/TheCodister/movie-app)
 
 - 🌱 I’m currently learning **Python, Flask, Backend architecture**
 
