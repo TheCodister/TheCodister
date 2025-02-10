@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Badminton Ecommerce Website](https://github.com/TheCodister/badminton-econ-app), [Movie Search App](https://github.com/TheCodister/movie-app)
 
-- 🌱 I’m currently learning **Flutter, Python, Flask, Backend Architecture, Mobile Developer**
+- 🌱 I’m currently learning **NestJS, Backend Architecture, Backend Developer**
 
-- 💬 Ask me about **NextJS, React, HTML, CSS, Nodejs.**
+- 💬 Ask me about **NextJS, React, HTML, CSS.**
 
 - 📫 How to reach me **quangcuber002@gmail.com**
 
