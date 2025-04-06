@@ -5,9 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thecodister" alt="thecodister" /></a> </p>
 
-- 🔭 I’m currently working on [Badminton Ecommerce Website](https://github.com/TheCodister/badminton-econ-app), [Movie Search App](https://github.com/TheCodister/movie-app)
+- 🔭 I’m currently working on [Badminton Ecommerce Website](https://github.com/TheCodister/badminton-econ-app), [Simple Task Manager using Springboot](https://github.com/TheCodister/taskmanager-backend.git)
 
-- 🌱 I’m currently learning **NestJS, Backend Architecture, Backend Developer**
+- 🌱 I’m currently learning **NestJS, Java, Backend Architecture, Backend Developer, Database Design**
 
 - 💬 Ask me about **NextJS, React, HTML, CSS.**
 
